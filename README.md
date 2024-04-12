@@ -1,5 +1,5 @@
 # Amazon Sales Dashboard
-This dashboard provides insights into Amazon sales performance, based on data from (data source). It is built using (tool or technology used to create the dashboard).
+This dashboard provides insights into Amazon sales performance, based on data from Amazon Sales Data. It is built using PowerBi used to create the dashboard.
 
 ## Getting Started
  1. Clone this repository or download the zip file.
